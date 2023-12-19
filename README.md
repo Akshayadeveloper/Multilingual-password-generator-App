@@ -4,7 +4,6 @@ A multilingual password generator application, processed using four different la
 Multilingual strong 💪password generator🔑 App using HTML, CSS, javascript functions with bootstrap style 
 Fun 🛂 password generator Application challenges 🥳 with ✨🌈 gradient Background and Sparkle 🌌 button on each run . For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Multilingual-password-generator-App/index.html For video▶️ tutorial click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper
 <p></p>
-<img src="https://github.com/Akshayadeveloper/text-to-speech/blob/main/IMG_20231219_133936.jpg">
-
+<img src="https://github.com/Akshayadeveloper/Multilingual-password-generator-App/blob/main/IMG_20231219_133958.jpg">
 <br>
-<img src="https://github.com/Akshayadeveloper/text-to-speech/blob/main/IMG_20231218_151753.jpg">
+<img src="https://github.com/Akshayadeveloper/Multilingual-password-generator-App/blob/main/IMG_20231219_133857.jpg">
